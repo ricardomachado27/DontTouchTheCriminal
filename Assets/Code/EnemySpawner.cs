@@ -3,7 +3,7 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
     public GameObject enemyObject;
-    public float spawnCool;
+    public float spawnCooldown;
 
     public float minPosition;
     public float maxPosition;
@@ -33,9 +33,7 @@ public class EnemySpawner : MonoBehaviour
     {
         Vector3 randomPosition = transform.position;
         randomPosition.y = Random.Range(minPosition, maxPosition);
-        GameObject.Instantiate(enemyObject, randomPosition, transform.rotation);
-
-        int targetEnemyIndex = Random.Range(0, enemyObjects.Length);
+        GameObject enemy = GameObject.Instantiate(enemyObject, randomPosition, transform.rotation);
 
 
         float randomSpeed = Random.Range(minEnemySpeed, maxEnemySpeed);
@@ -43,4 +41,5 @@ public class EnemySpawner : MonoBehaviour
         enemyMovement.moveSpeed = randomSpeed;
     }
 }
-}
+
+
