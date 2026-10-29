@@ -13,5 +13,12 @@ public class EnemyMovement : MonoBehaviour
     void Update()
     {
         transform.position += new Vector3(moveSpeed, 0, 0) * Time.deltaTime;
+
+        
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        Destroy(gameObject);
     }
 }
