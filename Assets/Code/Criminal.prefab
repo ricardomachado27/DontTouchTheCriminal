@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 5307035645802963853}
   - component: {fileID: 2659307111219792874}
   - component: {fileID: 1925199997353148514}
-  - component: {fileID: 1270484256092274998}
   m_Layer: 0
   m_Name: Criminal
   m_TagString: enemy
@@ -91,7 +90,7 @@ SpriteRenderer:
   m_Size: {x: 3.2, y: 3.69}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!114 &1925199997353148514
 MonoBehaviour:
@@ -106,16 +105,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   moveSpeed: 0
---- !u!114 &1270484256092274998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3876462072812859612}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cae65b3d45e62d848bee3de21573c220, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
-  moveSpeed: 8
