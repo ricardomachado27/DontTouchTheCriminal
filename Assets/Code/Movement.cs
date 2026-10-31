@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour
 {
@@ -18,8 +19,16 @@ public class Movement : MonoBehaviour
     {
         transform.position += new Vector3(movement.x, movement.y, 0) * movementSpeed * Time.deltaTime;
     }
-    public void OnMove(InputValue input)
+    public void OnMovement(InputValue input)
     {
         movement = input.Get<Vector2>();
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            SceneManager.LoadScene("DeathScene");
+        }
     }
 }

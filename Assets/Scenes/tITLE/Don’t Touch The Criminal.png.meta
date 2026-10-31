@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 7381c832c9e94a04b849e91f64e3e696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2443035901239042739
+    second: "Don\u2019t Touch The Criminal_0"
+  - first:
+      213: 185405077514659614
+    second: "Don\u2019t Touch The Criminal_1"
+  - first:
+      213: 6281377358911836067
+    second: "Don\u2019t Touch The Criminal_2"
+  - first:
+      213: 5201310099043945289
+    second: "Don\u2019t Touch The Criminal_3"
+  - first:
+      213: -3258964437081152732
+    second: "Don\u2019t Touch The Criminal_4"
+  - first:
+      213: -1266234692704946263
+    second: "Don\u2019t Touch The Criminal_5"
+  - first:
+      213: 4367191501406962513
+    second: "Don\u2019t Touch The Criminal_6"
+  - first:
+      213: 5782136536970151394
+    second: "Don\u2019t Touch The Criminal_7"
+  - first:
+      213: -3678434248624157559
+    second: "Don\u2019t Touch The Criminal_8"
+  - first:
+      213: -36658307257366524
+    second: "Don\u2019t Touch The Criminal_9"
+  - first:
+      213: -7691917085286049677
+    second: "Don\u2019t Touch The Criminal_10"
+  - first:
+      213: 3827663189654069632
+    second: "Don\u2019t Touch The Criminal_11"
+  - first:
+      213: 6427772567531388923
+    second: "Don\u2019t Touch The Criminal_12"
+  - first:
+      213: -4311163174642900210
+    second: "Don\u2019t Touch The Criminal_13"
+  - first:
+      213: 1825066670593683207
+    second: "Don\u2019t Touch The Criminal_14"
+  - first:
+      213: -512109584071123615
+    second: "Don\u2019t Touch The Criminal_15"
+  - first:
+      213: -4629171412569290972
+    second: "Don\u2019t Touch The Criminal_16"
+  - first:
+      213: 2442628676238569457
+    second: "Don\u2019t Touch The Criminal_17"
+  - first:
+      213: 4685913983358164028
+    second: "Don\u2019t Touch The Criminal_18"
+  - first:
+      213: 4254584467507429846
+    second: "Don\u2019t Touch The Criminal_19"
+  - first:
+      213: -4646169801529998895
+    second: "Don\u2019t Touch The Criminal_20"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_0"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b221ea553867e120800000000000000
+      internalID: 2443035901239042739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_1"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a0d88fe0b29200800000000000000
+      internalID: 185405077514659614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_2"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 509
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0f128d6feb2750800000000000000
+      internalID: 6281377358911836067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_3"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 562
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b8a243af3ce2840800000000000000
+      internalID: 5201310099043945289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_4"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423a5287c15d5c2d0800000000000000
+      internalID: -3258964437081152732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_5"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7bb0b714e6d6ee0800000000000000
+      internalID: -1266234692704946263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_6"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153877b38816b9c30800000000000000
+      internalID: 4367191501406962513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_7"
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 509
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c9e89b864e3050800000000000000
+      internalID: 5782136536970151394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_8"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c40214a8393fcc0800000000000000
+      internalID: -3678434248624157559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_9"
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4088bd9b673cd7ff0800000000000000
+      internalID: -36658307257366524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_10"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37854c91a22d04590800000000000000
+      internalID: -7691917085286049677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_11"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0816b2324679e1530800000000000000
+      internalID: 3827663189654069632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_12"
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff75b82819043950800000000000000
+      internalID: 6427772567531388923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_13"
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e032aa62febab24c0800000000000000
+      internalID: -4311163174642900210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_14"
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 509
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2420a770f35910800000000000000
+      internalID: 1825066670593683207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_15"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 509
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d1e5beb0f94e8f0800000000000000
+      internalID: -512109584071123615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_16"
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4270a6d6021e1cfb0800000000000000
+      internalID: -4629171412569290972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_17"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 509
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe165e6d5f5e120800000000000000
+      internalID: 2442628676238569457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_18"
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 509
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c591ad0f5b70140800000000000000
+      internalID: 4685913983358164028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_19"
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ccac08025b0b30800000000000000
+      internalID: 4254584467507429846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Don\u2019t Touch The Criminal_20"
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 509
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d148a59e2d758fb0800000000000000
+      internalID: -4646169801529998895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Don\u2019t Touch The Criminal_0": 2443035901239042739
+      "Don\u2019t Touch The Criminal_1": 185405077514659614
+      "Don\u2019t Touch The Criminal_10": -7691917085286049677
+      "Don\u2019t Touch The Criminal_11": 3827663189654069632
+      "Don\u2019t Touch The Criminal_12": 6427772567531388923
+      "Don\u2019t Touch The Criminal_13": -4311163174642900210
+      "Don\u2019t Touch The Criminal_14": 1825066670593683207
+      "Don\u2019t Touch The Criminal_15": -512109584071123615
+      "Don\u2019t Touch The Criminal_16": -4629171412569290972
+      "Don\u2019t Touch The Criminal_17": 2442628676238569457
+      "Don\u2019t Touch The Criminal_18": 4685913983358164028
+      "Don\u2019t Touch The Criminal_19": 4254584467507429846
+      "Don\u2019t Touch The Criminal_2": 6281377358911836067
+      "Don\u2019t Touch The Criminal_20": -4646169801529998895
+      "Don\u2019t Touch The Criminal_3": 5201310099043945289
+      "Don\u2019t Touch The Criminal_4": -3258964437081152732
+      "Don\u2019t Touch The Criminal_5": -1266234692704946263
+      "Don\u2019t Touch The Criminal_6": 4367191501406962513
+      "Don\u2019t Touch The Criminal_7": 5782136536970151394
+      "Don\u2019t Touch The Criminal_8": -3678434248624157559
+      "Don\u2019t Touch The Criminal_9": -36658307257366524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
