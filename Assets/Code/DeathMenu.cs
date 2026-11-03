@@ -9,7 +9,7 @@ public class DeathMenu : MonoBehaviour
     
     void Start()
     {
-        timeText.text = "You were untainted " + GameTimer.survivedTime.ToString("F1") + " seconds";
+        timeText.text = "You were untainted for " + GameTimer.survivedTime.ToString("F1") + " seconds";
     }
 
     public void Retry()
